@@ -1,6 +1,6 @@
 # Wang Lab — Design to Signal
 
-Static lab website for Xinru Wang at Northeastern University.
+Lab website for Xinru Wang at Northeastern University.
 
 ## Edit
 - `index.html`: content and image references
@@ -15,3 +15,5 @@ In repository Settings → Pages, select Deploy from a branch, choose the main b
 
 Publication links are supplied or verified source records. The bioRxiv item is labeled as a preprint. Team displays only Xinru Wang. Recruitment uses inquiry language without claiming available positions.
 
+## Update Date
+Updated on Oct 12, 2026 by Xinru Wang
